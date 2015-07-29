@@ -9,6 +9,7 @@ public class array {
 		a1.add("e");
 		a1.add("f");
 		a1.add("g");
+		System.out.println("performing arraylist");
 		System.out.println("after addition="+a1.size());
 		System.out.println("content="+a1);
 		a1.remove("f");
