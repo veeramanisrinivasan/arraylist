@@ -8,6 +8,8 @@ public class array {
 		a1.add("d");
 		a1.add("e");
 		a1.add("f");
+		a1.add("Z");
+		a1.add("m");
 		a1.add("g");
 		System.out.println("performing arraylist");
 		System.out.println("after addition="+a1.size());
