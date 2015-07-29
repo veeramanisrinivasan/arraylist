@@ -15,6 +15,8 @@ public class array {
 		System.out.println("after addition="+a1.size());
 		System.out.println("content="+a1);
 		a1.remove("f");
+		a1.remove("e");
+		a1.remove("z");
 		System.out.println("after deletion="+a1);
 		
 	}
